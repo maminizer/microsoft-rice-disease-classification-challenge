@@ -1,6 +1,6 @@
-# Paddy-Disease-Classification
-### Paddy leaf Disease Classification [Competition](https://www.kaggle.com/competitions/paddy-disease-classification/overview)
-##### Top 19% place Solution [leaderboard](https://www.kaggle.com/competitions/paddy-disease-classification/leaderboard?)
+# Microsoft rice classification challenge
+### Microsoft rice classification challenge [Competition](https://zindi.africa/competitions/microsoft-rice-disease-classification-challenge)
+##### Top 15% place Solution [leaderboard](https://zindi.africa/competitions/microsoft-rice-disease-classification-challenge/leaderboard)
 #### Model OverView :  [ArcFace Sub-center Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560715.pdf)
 ***Abstract.*** Margin-based deep face recognition methods (e.g. SphereFace,
 CosFace, and ArcFace) have achieved remarkable success in unconstrained
@@ -21,8 +21,8 @@ state-of-the-art performance on IJB-B, IJB-C, MegaFace, and FRVT.
 
 ## DATA SETUP : Assumes that you have [kaggleAPI](https://github.com/Kaggle/kaggle-api) installed
 ```
-kaggle competitions download -c paddy-disease-classification
-unzip -q paddy-disease-classification.zip
+kaggle competitions download -c microsoft-rice-disease-classification-challenge
+unzip -q microsoft-rice-disease-classification-challenge.zip
 ```
 
 ## Usage 
